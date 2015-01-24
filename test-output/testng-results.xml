@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="296064" started-at="2014-12-27T14:36:23Z" finished-at="2014-12-27T14:41:19Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="296064" started-at="2014-12-27T14:36:23Z" finished-at="2014-12-27T14:41:19Z">
+      <class name="BookshelfQA.VerifyActivity">
+        <test-method status="PASS" signature="BrowserOpen()[pri:0, instance:BookshelfQA.VerifyActivity@c39f790]" name="BrowserOpen" is-config="true" duration-ms="15709" started-at="2014-12-27T20:06:23Z" finished-at="2014-12-27T20:06:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserOpen -->
+        <test-method status="PASS" signature="LoginApplication()[pri:0, instance:BookshelfQA.VerifyActivity@c39f790]" name="LoginApplication" duration-ms="9348" started-at="2014-12-27T20:06:38Z" finished-at="2014-12-27T20:06:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginApplication -->
+        <test-method status="PASS" signature="VerifyHomePageTitle()[pri:0, instance:BookshelfQA.VerifyActivity@c39f790]" name="VerifyHomePageTitle" duration-ms="2094" started-at="2014-12-27T20:06:48Z" finished-at="2014-12-27T20:06:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyHomePageTitle -->
+        <test-method status="PASS" signature="VerifyActivityStatus()[pri:0, instance:BookshelfQA.VerifyActivity@c39f790]" name="VerifyActivityStatus" duration-ms="267540" started-at="2014-12-27T20:06:50Z" finished-at="2014-12-27T20:11:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyActivityStatus -->
+        <test-method status="PASS" signature="BrowserClose()[pri:0, instance:BookshelfQA.VerifyActivity@c39f790]" name="BrowserClose" is-config="true" duration-ms="1339" started-at="2014-12-27T20:11:17Z" finished-at="2014-12-27T20:11:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserClose -->
+      </class> <!-- BookshelfQA.VerifyActivity -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
